@@ -1,0 +1,3 @@
+-R theories DTSInCoq
+theories/SemanticTemplates.v
+theories/DTSTactics.v
